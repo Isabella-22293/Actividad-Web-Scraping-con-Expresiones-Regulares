@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">En esta actividad, aplicarán conceptos de buffers, centinelas y expresiones regulares para realizar scraping en páginas web. El objetivo es encontrar las imágenes de productos en una tienda de comercio electrónico o de videojuegos y generar un listado exportable de los productos con sus nombres e imágenes.</p>
+<p align="left">En esta actividad, aplicarán conceptos de buffers, centinelas y expresiones regulares para realizar scraping en páginas web. El objetivo es encontrar las imágenes de productos en una tienda de comercio electrónico o de videojuegos y generar un listado exportable de los productos con sus nombres e imágenes.
+Enlace del video https://youtu.be/CSsK9lCteOM </p>
 
 ###
 
